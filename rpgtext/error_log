@@ -1,0 +1,63 @@
+[05-May-2010 14:56:50] PHP Warning:  mysqli_fetch_object(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[05-May-2010 14:56:50] PHP Warning:  mysqli_free_result(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[05-May-2010 14:57:21] PHP Warning:  mysqli_fetch_object(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[05-May-2010 14:57:21] PHP Warning:  mysqli_free_result(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[05-May-2010 14:59:34] PHP Warning:  mysqli_fetch_object(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[05-May-2010 14:59:34] PHP Warning:  mysqli_free_result(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[07-May-2010 12:57:58] PHP Warning:  mysqli_fetch_object(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[07-May-2010 12:57:58] PHP Warning:  mysqli_free_result(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[07-May-2010 12:58:11] PHP Warning:  mysqli_fetch_object(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[07-May-2010 12:58:11] PHP Warning:  mysqli_free_result(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[24-Nov-2010 08:57:33] PHP Warning:  Division by zero in /home/thesilen/public_html/rpgtext/MaiN/www.functions.php on line 98
+[11-Dec-2010 17:09:10] PHP Warning:  mysqli_fetch_object(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[11-Dec-2010 17:09:10] PHP Warning:  mysqli_free_result(): 54 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[29-Jan-2011 18:44:33] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[29-Jan-2011 18:44:33] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[04-Jul-2011 10:51:20] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 10:51:20] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 10:51:24] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 10:51:24] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 10:51:28] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 10:51:28] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 11:02:51] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 11:02:51] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 11:02:54] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 11:02:54] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 11:02:57] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 11:02:57] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 11:03:00] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 11:03:00] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 11:03:03] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 11:03:03] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:14] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:14] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:20] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:20] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:22] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:22] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:25] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:25] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:27] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:27] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:29] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:29] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:33] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:33] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:51:34] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:51:34] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[04-Jul-2011 15:52:36] PHP Warning:  mysqli_fetch_object(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 136
+[04-Jul-2011 15:52:36] PHP Warning:  mysqli_free_result(): 55 is not a valid MySQL result resource in /home/thesilen/public_html/rpgtext/MaiN/player.talk.php on line 156
+[11-Jul-2011 05:10:40] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[11-Jul-2011 05:10:40] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[11-Jul-2011 05:11:37] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/thesilen/public_html/rpgtext/stuff.php on line 15
+[11-Jul-2011 05:11:37] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/stuff.php on line 15
+[28-Jul-2011 11:12:42] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[28-Jul-2011 11:12:42] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[31-Jul-2011 23:07:52] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[31-Jul-2011 23:07:52] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[19-Jun-2012 19:39:03] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[19-Jun-2012 19:39:04] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[18-Dec-2012 02:52:23 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[18-Dec-2012 02:52:23 UTC] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/ladder.php on line 10
+[18-Dec-2012 02:52:23 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/thesilen/public_html/rpgtext/index.php on line 46
+[18-Dec-2012 02:52:23 UTC] PHP Fatal error:  Call to undefined function die_nice() in /home/thesilen/public_html/rpgtext/index.php on line 46
